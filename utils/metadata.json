@@ -1,0 +1,2861 @@
+{
+  "0": {
+    "name": "#0",
+    "description": "",
+    "image": "/0",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "1": {
+    "name": "#1",
+    "description": "",
+    "image": "/1",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "5" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "1" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "1" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "2": {
+    "name": "#2",
+    "description": "",
+    "image": "/2",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "2" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "3": {
+    "name": "#3",
+    "description": "",
+    "image": "/3",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "4": {
+    "name": "#4",
+    "description": "",
+    "image": "/4",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "11" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none1" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "1" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "5": {
+    "name": "#5",
+    "description": "",
+    "image": "/5",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "5" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "6": {
+    "name": "#6",
+    "description": "",
+    "image": "/6",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "9" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "6" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "7": {
+    "name": "#7",
+    "description": "",
+    "image": "/7",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "5" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "8": {
+    "name": "#8",
+    "description": "",
+    "image": "/8",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "4" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "9": {
+    "name": "#9",
+    "description": "",
+    "image": "/9",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "12" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "snake" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "snake" }
+    ]
+  },
+  "10": {
+    "name": "#10",
+    "description": "",
+    "image": "/10",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "2" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "1" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "11": {
+    "name": "#11",
+    "description": "",
+    "image": "/11",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "12": {
+    "name": "#12",
+    "description": "",
+    "image": "/12",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "9" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "13": {
+    "name": "#13",
+    "description": "",
+    "image": "/13",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "1" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "14": {
+    "name": "#14",
+    "description": "",
+    "image": "/14",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "6" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "15": {
+    "name": "#15",
+    "description": "",
+    "image": "/15",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "4" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "16": {
+    "name": "#16",
+    "description": "",
+    "image": "/16",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "2" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "17": {
+    "name": "#17",
+    "description": "",
+    "image": "/17",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "6" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "wolf" }
+    ]
+  },
+  "18": {
+    "name": "#18",
+    "description": "",
+    "image": "/18",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "11" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "19": {
+    "name": "#19",
+    "description": "",
+    "image": "/19",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "20": {
+    "name": "#20",
+    "description": "",
+    "image": "/20",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "1" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "21": {
+    "name": "#21",
+    "description": "",
+    "image": "/21",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "4" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "22": {
+    "name": "#22",
+    "description": "",
+    "image": "/22",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "23": {
+    "name": "#23",
+    "description": "",
+    "image": "/23",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "1" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "4" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "24": {
+    "name": "#24",
+    "description": "",
+    "image": "/24",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "5" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "wolf" }
+    ]
+  },
+  "25": {
+    "name": "#25",
+    "description": "",
+    "image": "/25",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "9" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "4" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "26": {
+    "name": "#26",
+    "description": "",
+    "image": "/26",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "4" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "6" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "27": {
+    "name": "#27",
+    "description": "",
+    "image": "/27",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "5" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "6" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "28": {
+    "name": "#28",
+    "description": "",
+    "image": "/28",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "29": {
+    "name": "#29",
+    "description": "",
+    "image": "/29",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "30": {
+    "name": "#30",
+    "description": "",
+    "image": "/30",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "9" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "9" },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "9" },
+      { "trait_type": "pets front", "value": "wolf" }
+    ]
+  },
+  "31": {
+    "name": "#31",
+    "description": "",
+    "image": "/31",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "3" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "32": {
+    "name": "#32",
+    "description": "",
+    "image": "/32",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "12" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "dragon" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "3" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "dragon" }
+    ]
+  },
+  "33": {
+    "name": "#33",
+    "description": "",
+    "image": "/33",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "12" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "4" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "34": {
+    "name": "#34",
+    "description": "",
+    "image": "/34",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "35": {
+    "name": "#35",
+    "description": "",
+    "image": "/35",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "5" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "1" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "none1" },
+      { "trait_type": "male cloths", "value": "1" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "wolf" }
+    ]
+  },
+  "36": {
+    "name": "#36",
+    "description": "",
+    "image": "/36",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "37": {
+    "name": "#37",
+    "description": "",
+    "image": "/37",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "8" },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "8" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "38": {
+    "name": "#38",
+    "description": "",
+    "image": "/38",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "2" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "39": {
+    "name": "#39",
+    "description": "",
+    "image": "/39",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "40": {
+    "name": "#40",
+    "description": "",
+    "image": "/40",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "12" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "9" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "9" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "41": {
+    "name": "#41",
+    "description": "",
+    "image": "/41",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "42": {
+    "name": "#42",
+    "description": "",
+    "image": "/42",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "1" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "43": {
+    "name": "#43",
+    "description": "",
+    "image": "/43",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "8" },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "8" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "44": {
+    "name": "#44",
+    "description": "",
+    "image": "/44",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "9" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "45": {
+    "name": "#45",
+    "description": "",
+    "image": "/45",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "3" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "46": {
+    "name": "#46",
+    "description": "",
+    "image": "/46",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "7" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "47": {
+    "name": "#47",
+    "description": "",
+    "image": "/47",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "3" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "48": {
+    "name": "#48",
+    "description": "",
+    "image": "/48",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "12" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "49": {
+    "name": "#49",
+    "description": "",
+    "image": "/49",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "50": {
+    "name": "#50",
+    "description": "",
+    "image": "/50",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "51": {
+    "name": "#51",
+    "description": "",
+    "image": "/51",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "1" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "1" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "52": {
+    "name": "#52",
+    "description": "",
+    "image": "/52",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "12" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "53": {
+    "name": "#53",
+    "description": "",
+    "image": "/53",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "1" },
+      { "trait_type": "male front accessories", "value": "4" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "54": {
+    "name": "#54",
+    "description": "",
+    "image": "/54",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "11" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "2" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "55": {
+    "name": "#55",
+    "description": "",
+    "image": "/55",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "56": {
+    "name": "#56",
+    "description": "",
+    "image": "/56",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "wolf" }
+    ]
+  },
+  "57": {
+    "name": "#57",
+    "description": "",
+    "image": "/57",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "4" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "58": {
+    "name": "#58",
+    "description": "",
+    "image": "/58",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "4" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "59": {
+    "name": "#59",
+    "description": "",
+    "image": "/59",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "1" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "60": {
+    "name": "#60",
+    "description": "",
+    "image": "/60",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "5" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "61": {
+    "name": "#61",
+    "description": "",
+    "image": "/61",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "2" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "62": {
+    "name": "#62",
+    "description": "",
+    "image": "/62",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "2" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "63": {
+    "name": "#63",
+    "description": "",
+    "image": "/63",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "wolf" }
+    ]
+  },
+  "64": {
+    "name": "#64",
+    "description": "",
+    "image": "/64",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "5" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "65": {
+    "name": "#65",
+    "description": "",
+    "image": "/65",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "12" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "1" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "66": {
+    "name": "#66",
+    "description": "",
+    "image": "/66",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "2" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "wolf" }
+    ]
+  },
+  "67": {
+    "name": "#67",
+    "description": "",
+    "image": "/67",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "5" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "4" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "68": {
+    "name": "#68",
+    "description": "",
+    "image": "/68",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "2" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "69": {
+    "name": "#69",
+    "description": "",
+    "image": "/69",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "2" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "70": {
+    "name": "#70",
+    "description": "",
+    "image": "/70",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "71": {
+    "name": "#71",
+    "description": "",
+    "image": "/71",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "1" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "72": {
+    "name": "#72",
+    "description": "",
+    "image": "/72",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "11" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "snake" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "snake" }
+    ]
+  },
+  "73": {
+    "name": "#73",
+    "description": "",
+    "image": "/73",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "4" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "1" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "1" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "4" },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "74": {
+    "name": "#74",
+    "description": "",
+    "image": "/74",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "none1" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "75": {
+    "name": "#75",
+    "description": "",
+    "image": "/75",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "1" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "76": {
+    "name": "#76",
+    "description": "",
+    "image": "/76",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "77": {
+    "name": "#77",
+    "description": "",
+    "image": "/77",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "4" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "78": {
+    "name": "#78",
+    "description": "",
+    "image": "/78",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "4" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "3" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "79": {
+    "name": "#79",
+    "description": "",
+    "image": "/79",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "80": {
+    "name": "#80",
+    "description": "",
+    "image": "/80",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "81": {
+    "name": "#81",
+    "description": "",
+    "image": "/81",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "2" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "6" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "82": {
+    "name": "#82",
+    "description": "",
+    "image": "/82",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "dragon" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "dragon" }
+    ]
+  },
+  "83": {
+    "name": "#83",
+    "description": "",
+    "image": "/83",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "7" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "84": {
+    "name": "#84",
+    "description": "",
+    "image": "/84",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "5" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "6" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "85": {
+    "name": "#85",
+    "description": "",
+    "image": "/85",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "1" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "1" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "86": {
+    "name": "#86",
+    "description": "",
+    "image": "/86",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "4" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "87": {
+    "name": "#87",
+    "description": "",
+    "image": "/87",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "5" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "88": {
+    "name": "#88",
+    "description": "",
+    "image": "/88",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "89": {
+    "name": "#89",
+    "description": "",
+    "image": "/89",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "11" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none1" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "90": {
+    "name": "#90",
+    "description": "",
+    "image": "/90",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none1" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "91": {
+    "name": "#91",
+    "description": "",
+    "image": "/91",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "11" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "92": {
+    "name": "#92",
+    "description": "",
+    "image": "/92",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "11" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "1" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "1" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (4)" }
+    ]
+  },
+  "93": {
+    "name": "#93",
+    "description": "",
+    "image": "/93",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "2" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "wolf" }
+    ]
+  },
+  "94": {
+    "name": "#94",
+    "description": "",
+    "image": "/94",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "7" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (5)" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "95": {
+    "name": "#95",
+    "description": "",
+    "image": "/95",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "2" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "6" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "96": {
+    "name": "#96",
+    "description": "",
+    "image": "/96",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "9" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "9" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "97": {
+    "name": "#97",
+    "description": "",
+    "image": "/97",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "7" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "dragon" },
+      { "trait_type": "clothes back", "value": "4" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "4" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "2" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "dragon" }
+    ]
+  },
+  "98": {
+    "name": "#98",
+    "description": "",
+    "image": "/98",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (1)" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "2" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "99": {
+    "name": "#99",
+    "description": "",
+    "image": "/99",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "11" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "5" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  },
+  "100": {
+    "name": "#100",
+    "description": "",
+    "image": "/100",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none1" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "101": {
+    "name": "#101",
+    "description": "",
+    "image": "/101",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "102": {
+    "name": "#102",
+    "description": "",
+    "image": "/102",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "9" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "9" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "103": {
+    "name": "#103",
+    "description": "",
+    "image": "/103",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "104": {
+    "name": "#104",
+    "description": "",
+    "image": "/104",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "1" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none.3" },
+      { "trait_type": "male cloths", "value": "1" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "3" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "105": {
+    "name": "#105",
+    "description": "",
+    "image": "/105",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "10" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "6" },
+      { "trait_type": "male front accessories", "value": "4" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "106": {
+    "name": "#106",
+    "description": "",
+    "image": "/106",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "5" },
+      { "trait_type": "neckless", "value": "3" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "6" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "107": {
+    "name": "#107",
+    "description": "",
+    "image": "/107",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "4" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "6" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "6" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "108": {
+    "name": "#108",
+    "description": "",
+    "image": "/108",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "2" },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "109": {
+    "name": "#109",
+    "description": "",
+    "image": "/109",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "8" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "3" },
+      { "trait_type": "neckless", "value": "none1" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "7" },
+      { "trait_type": "pets front", "value": "no pets front - Copy (2)" }
+    ]
+  },
+  "110": {
+    "name": "#110",
+    "description": "",
+    "image": "/110",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "111": {
+    "name": "#111",
+    "description": "",
+    "image": "/111",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "1" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "2" },
+      { "trait_type": "pets back", "value": "no pets back - Copy" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none1" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "2" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "112": {
+    "name": "#112",
+    "description": "",
+    "image": "/112",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "5" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "6" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "4" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "113": {
+    "name": "#113",
+    "description": "",
+    "image": "/113",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "no wings - Copy (4)" },
+      { "trait_type": "male weapons", "value": "1" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "114": {
+    "name": "#114",
+    "description": "",
+    "image": "/114",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "13" },
+      { "trait_type": "male wings", "value": "none" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (2)" },
+      { "trait_type": "male base", "value": "2" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "2" },
+      { "trait_type": "male eyes", "value": "3" },
+      { "trait_type": "male front hair", "value": "5" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "no pets front - Copy" }
+    ]
+  },
+  "115": {
+    "name": "#115",
+    "description": "",
+    "image": "/115",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "3" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "5" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none" },
+      { "trait_type": "male cloths", "value": "5" },
+      { "trait_type": "male eyes", "value": "1" },
+      { "trait_type": "male front hair", "value": "3" },
+      { "trait_type": "male front accessories", "value": "no accessory" },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "116": {
+    "name": "#116",
+    "description": "",
+    "image": "/116",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "14" },
+      { "trait_type": "male wings", "value": "1" },
+      { "trait_type": "male weapons", "value": "no weapons" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (3)" },
+      { "trait_type": "clothes back", "value": "no clothes (3)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "pets front", "value": "nine tailed fox" }
+    ]
+  },
+  "117": {
+    "name": "#117",
+    "description": "",
+    "image": "/117",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "1" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (4)" },
+      { "trait_type": "clothes back", "value": "no clothes (4)" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "none.4" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "no pets front" }
+    ]
+  },
+  "118": {
+    "name": "#118",
+    "description": "",
+    "image": "/118",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "3" },
+      { "trait_type": "male wings", "value": "no wings - Copy (2)" },
+      { "trait_type": "male weapons", "value": "1" },
+      { "trait_type": "male back accessories", "value": "no accessory - Copy" },
+      { "trait_type": "male back hair", "value": "1" },
+      { "trait_type": "pets back", "value": "dragon" },
+      { "trait_type": "clothes back", "value": "1" },
+      { "trait_type": "male base", "value": "6" },
+      { "trait_type": "neckless", "value": "2" },
+      { "trait_type": "male cloths", "value": "1" },
+      { "trait_type": "male eyes", "value": "4" },
+      { "trait_type": "male front hair", "value": "1" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy (2)"
+      },
+      { "trait_type": "pets front", "value": "dragon" }
+    ]
+  },
+  "119": {
+    "name": "#119",
+    "description": "",
+    "image": "/119",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "7" },
+      { "trait_type": "male wings", "value": "no wings - Copy (3)" },
+      { "trait_type": "male weapons", "value": "2" },
+      {
+        "trait_type": "male back accessories",
+        "value": "no accessory - Copy (3)"
+      },
+      { "trait_type": "male back hair", "value": "4" },
+      { "trait_type": "pets back", "value": "no pets back" },
+      { "trait_type": "clothes back", "value": "3" },
+      { "trait_type": "male base", "value": "1" },
+      { "trait_type": "neckless", "value": "none2" },
+      { "trait_type": "male cloths", "value": "3" },
+      { "trait_type": "male eyes", "value": "5" },
+      { "trait_type": "male front hair", "value": "4" },
+      { "trait_type": "male front accessories", "value": "5" },
+      { "trait_type": "pets front", "value": "angel" }
+    ]
+  },
+  "120": {
+    "name": "#120",
+    "description": "",
+    "image": "/120",
+    "attributes": [
+      { "trait_type": "backgrounds", "value": "6" },
+      { "trait_type": "male wings", "value": "no wings - Copy" },
+      { "trait_type": "male weapons", "value": "2" },
+      { "trait_type": "male back accessories", "value": "no accessory" },
+      { "trait_type": "male back hair", "value": "5" },
+      { "trait_type": "pets back", "value": "no pets back - Copy (2)" },
+      { "trait_type": "clothes back", "value": "no clothes (5)" },
+      { "trait_type": "male base", "value": "4" },
+      { "trait_type": "neckless", "value": "1" },
+      { "trait_type": "male cloths", "value": "No clothes" },
+      { "trait_type": "male eyes", "value": "2" },
+      { "trait_type": "male front hair", "value": "5" },
+      {
+        "trait_type": "male front accessories",
+        "value": "no accessory - Copy"
+      },
+      { "trait_type": "pets front", "value": "no pets front - Copy (3)" }
+    ]
+  }
+}

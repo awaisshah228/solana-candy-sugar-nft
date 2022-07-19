@@ -1,0 +1,6 @@
+[
+  {
+    "path": "assets\\metadata.json",
+    "error": "missing field `name` at line 2861 column 1"
+  }
+]
